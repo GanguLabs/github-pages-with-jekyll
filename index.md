@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This Blog is create by GitHub Learning Bot from the following course:
+https://lab.github.com/githubtraining/github-pages
